@@ -4,7 +4,7 @@
 
 Q1 - Create a torrent containing this [image](https://cdn.futura-sciences.com/sources/images/Chaton.jpeg).
 
-We create a first torrent and store it in a file :
+The command to create a torrent and store it in a file is :
 ```
 torrent create Chaton.jpeg -o image.torrent
 ```
